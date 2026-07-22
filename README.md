@@ -63,7 +63,7 @@ A aplicação utiliza **Inteligência Artificial (Gemini API)** para analisar os
 ## 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/sistema-triagem-inteligente.git
+git clone https://github.com/wellingtonsouza2k25-cell/sistema-triagem-inteligente.git
 ```
 
 Entre na pasta:
