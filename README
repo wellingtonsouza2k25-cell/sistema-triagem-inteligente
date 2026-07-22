@@ -1,0 +1,51 @@
+# Sistema de Triagem Inteligente
+
+Sistema desktop desenvolvido em Python para auxiliar na organização de atendimentos em unidades de saúde.
+
+O sistema utiliza inteligência artificial para analisar sintomas informados e sugerir uma prioridade de atendimento, funcionando como ferramenta de apoio à organização da fila.
+
+⚠️ A aplicação não realiza diagnóstico médico.
+
+## 🚀 Funcionalidades
+
+✅ Cadastro de pacientes  
+✅ Registro de sintomas  
+✅ Classificação de prioridade com IA  
+✅ Fila de atendimento inteligente  
+✅ Histórico de atendimentos  
+✅ Relatórios e estatísticas  
+✅ Banco de dados SQLite  
+
+## 🛠 Tecnologias
+
+- Python
+- CustomTkinter
+- SQLite
+- Gemini API
+- Pillow
+- python-dotenv
+
+## 📷 Interface do Sistema
+
+### Cadastro de pacientes
+
+![Tela de cadastro](imagens/TELA%20CADASTRO.png)
+
+![Tela de cadastro](imagens/TELA%20CADASTRO%202.png)
+
+### Fila de atendimento
+![Fila](imagens/FILA%20DE%20ATENDIMENTO.png)
+
+
+### Histórico de atendimento
+
+![Relatórios](imagens/HISTORICO%20DE%20ATENDIMENTO.png)
+
+
+### Relatórios
+
+![Relatórios](imagens/RELATORIO%20E%20ESTATISTICAS.png)
+
+## ▶️ Como executar
+
+Instale as dependências:

@@ -1,0 +1,4 @@
+customtkinter
+pillow
+python-dotenv
+google-genai
