@@ -129,12 +129,6 @@ Sistema-Triagem-Inteligente/
 ├── fila_de_atendimento.py
 ├── historico.py
 ├── relatorios.py
-│
-├── imagens/
-│   ├── TELA CADASTRO.png
-│   ├── FILA DE ATENDIMENTO.png
-│   └── RELATORIO E ESTATISTICAS.png
-│
 ├── requirements.txt
 └── README.md
 ```
