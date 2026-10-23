@@ -12,13 +12,13 @@
 
 | Integrante | Responsabilidade |
 |---|---|
-| [Nome do integrante 1] | [Responsabilidade] |
-| [Nome do integrante 2] | [Responsabilidade] |
-| [Nome do integrante 3] | [Responsabilidade] |
+| Wellington Souza | Desenvolvimento da API, integração com o banco de dados e testes do backend. |
+| Robson Vasconcelos | Organização do Trello, documentação e acompanhamento dos prazos. |
+| Gabriel dos Santos | Desenvolvimento da interface web, integração com a API e testes da interface. |
 
 ## 3. Comunicação
 
-A equipe utilizará [WhatsApp ou outra ferramenta] para comunicação e alinhamento das atividades.
+A equipe utilizará WhatsApp para comunicação e alinhamento das atividades.
 
 ## 4. Organização das tarefas
 
