@@ -132,7 +132,19 @@ Sistema-Triagem-Inteligente/
 ├── requirements.txt
 └── README.md
 ```
+## Projeto Integrador III — Planejamento
 
+O desenvolvimento do Sistema de Triagem Inteligente terá continuidade no Projeto Integrador e Prática Profissional III.
+
+### Quadro de tarefas
+
+As histórias de usuário, prioridades, responsáveis e andamento das atividades são organizados no Trello.
+
+Link do quadro: [PIPP3 — Sistema de Triagem Inteligente](https://trello.com/b/oyK5Tl0w/pipp3-sistema-de-triagem-inteligente)
+
+### Objetivo da nova etapa
+
+Adaptar o sistema desktop desenvolvido no Projeto Integrador II para uma aplicação web, reaproveitando as funcionalidades existentes sempre que possível.
 ---
 
 # 👨‍💻 Desenvolvedores
