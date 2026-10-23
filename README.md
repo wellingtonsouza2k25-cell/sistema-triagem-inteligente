@@ -147,10 +147,12 @@ Link do quadro: [PIPP3 — Sistema de Triagem Inteligente](https://trello.com/b/
 Adaptar o sistema desktop desenvolvido no Projeto Integrador II para uma aplicação web, reaproveitando as funcionalidades existentes sempre que possível.
 ---
 
-# 👨‍💻 Desenvolvedores
+## 👨‍💻 Desenvolvedores
 
 - Wellington Souza Alves
-
+- Robson Vasconcelos
+- Gabriel dos Santos
+  
 ---
 
 # 📚 Projeto acadêmico
